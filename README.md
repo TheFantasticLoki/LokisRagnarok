@@ -4,21 +4,21 @@ Thanks to WhyDoesAnyoneCare & Everyone in the Plutonium Discord for helping with
 
 # Install Guide
 
-> Download the files if you have not already and extract them to any folder you want that you can remember in case things break.
+> Download the files if you have not already and extract them to any folder you want, you'll be deleting it after.
 > 
-> Run Install_LRZ.bat file, this file makes needed folders and copies files to correct folders
+> Run Install_LRZ.bat file, this file makes needed folders and copies files to correct folders as well as functions as an updater.
 > 
-> Next you can run "Start Plutonium without update.bat" file to open plutonium without removing needed files.
+> Next you can run "Plutonium No Update" from the start menu (windows icon bottom left) to open plutonium which prevents the launcher from removing needed files for the lobby menu to function.
 > 
-> You are done.
+> Delete the folder you extracted to and You are done.
 > 
-> (original plutonium launcher updates all files when opened and this replaces "privategamelobby_project.lua" which is used to show LRZ & CUSTOM SURVIVAL MAPS option in private game lobby.)
+> (original plutonium launcher updates all files when opened and this replaces "privategamelobby_project.lua" which is used to show LRZ & CUSTOM SURVIVAL MAPS options in private game lobby.)
 > 
-> IF YOU USED UPDATER LAUNCHER TO UPDATE FILES OR BY MISTAKE RUN "Install_LRZ.bat" AGAIN.
+> IF YOU USED THE NORMAL/UPDATER LAUNCHER TO UPDATE FILES OR BY MISTAKE RUN "Install_LRZ" FROM THE START MENU AGAIN.
 > 
-> "Start Plutonium without update.bat" opens "%localappdata%\Plutonium\bin\plutonium-launcher-win32.exe" instead of the original launcher which updates all files.
+> "Plutonium No Update" opens "%localappdata%\Plutonium\bin\plutonium-launcher-win32.exe" which does not run plutoniums update function instead of the original launcher (plutonium.exe) which updates all files.
 > 
->  Survival maps can be chosen by selecting map in MAP and then selecting CUSTOM SURVIVAL MAP.
+>  Custom Survival maps can be chosen by going to custom games and selecting a map such as Transit or Mob of The Dead and then switching between the options for CUSTOM SURVIVAL MAPS.
 > 
 >  After selecting custom survival map you can use START MATCH to play.
 
@@ -34,7 +34,7 @@ Thanks to WhyDoesAnyoneCare & Everyone in the Plutonium Discord for helping with
 
 - New Harder Zombies Mode*
 
-- 9 Perk Limit (Will be console var controlled later)
+- 9 Perk Limit (LRZ_PerkLimit)
 
 - Loki's Blessings (Round Reward System)
 
