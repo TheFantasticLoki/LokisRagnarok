@@ -16,7 +16,7 @@ Thanks to WhyDoesAnyoneCare & Everyone in the Plutonium Discord for helping with
 > 
 > IF YOU USED THE NORMAL/UPDATER LAUNCHER TO UPDATE FILES OR BY MISTAKE RUN "Install_LRZ" FROM THE START MENU AGAIN.
 > 
-> "Plutonium No Update" opens "%localappdata%\Plutonium\bin\plutonium-launcher-win32.exe" which does not run plutoniums update function instead of the original launcher (plutonium.exe) which updates all files.
+> "Plutonium No Update" opens "%localappdata%\Plutonium\bin\plutonium-launcher-win32.exe" which does not run plutoniums update function instead of the original launcher (plutonium.exe) which updates all files. 
 > 
 >  Custom Survival maps can be chosen by going to custom games and selecting a map such as Transit or Mob of The Dead and then switching between the options for CUSTOM SURVIVAL MAPS.
 > 
