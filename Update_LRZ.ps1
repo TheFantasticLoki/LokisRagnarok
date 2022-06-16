@@ -24,7 +24,7 @@ Write-Output " by TheFantasticLoki               "
 Write-Output "======================================="
 
 $stopwatch = [system.diagnostics.stopwatch]::StartNew()
-$repoName = "TheFantasticLoki/LokisRagnarokZombies"
+$repoName = "TheFantasticLoki/LokisRagnarok"
 $assetPattern = "LokisRagnarok*.zip"
 
 if ($Verified)
