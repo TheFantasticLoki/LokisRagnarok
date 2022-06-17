@@ -12,7 +12,10 @@ xcopy /i "%CD%\" "%localappdata%\Plutonium\storage\t6\mods\Lokis-Ragnarok" /E /y
 
 xcopy /i "%CD%\menus\privategamelobby_project.lua" "%localappdata%\Plutonium\storage\t6\ui_mp\t6\menus" /y 
 
-powershell -command "& '%CD%\installscripts\updatechecklrzexists.ps1'"
+powershell -command "& '%CD%\installscripts\InstallCheckLRZexists.ps1'"
+
+powershell -command "& '%CD%\installscripts\InstallCheckLRMPexists.ps1'"
+
 xcopy /i "%CD%\scripts" "%localappdata%\Plutonium\storage\t6\scripts" /E /y
 
 xcopy /i "%CD%\images" "%localappdata%\Plutonium\storage\t6\images" /E /y
