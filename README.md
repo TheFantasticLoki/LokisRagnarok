@@ -4,7 +4,7 @@ Thanks to WhyDoesAnyoneCare & Everyone in the Plutonium Discord for helping with
 
 # Install Guide
 
-> Download the files if you have not already and extract them to any folder you want, you'll be deleting it after.
+> Download the files if you have not already and extract them to a folder that is EMPTY, you'll be deleting it after but it's needed to not copy incorrect files.
 > 
 > Run Install_LRZ.bat file, this file makes needed folders and copies files to correct folders as well as functions as an updater.
 > 
